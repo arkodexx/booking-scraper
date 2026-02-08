@@ -15,7 +15,7 @@ A Python-based web scraper that extracts **hotel listings, prices, ratings, and 
 
 ### Usage
 git clone https://github.com/yourusername/booking-scraper.git  
-cd booking-scraper  
+cd bookingcrawl  
 pip install -r requirements.txt  
 playwright install chromium  
 Dont forget to change how much pages you want in main file  
